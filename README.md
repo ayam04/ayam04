@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ayamullahkhan04@gmail.com**
 
-- ⚡ Fun fact **I thibk**
+- ⚡ Fun fact **I love being busy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
