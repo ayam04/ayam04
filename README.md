@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayam04" alt="ayam04" /></a> </p>
 
-- 📫 Reach out to me on: **ayamullahkhan04@gmail.com**
+- 📫 Reach out to me on: **ayam.ceo.keys@gmail.com**
 
 - ⚡ Fun fact **I love being busy**
 
