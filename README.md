@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayamullah-khan-5abbb3234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayamullah-khan-5abbb3234" height="30" width="40" /></a>
-<a href="https://instagram.com/ahh.yummm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahh.yummm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayam04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayamullah-khan-5abbb3234" height="30" width="40" /></a>
+<a href="https://instagram.com/ayam.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahh.yummm" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ayamullahkhan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayamullahkhan04" height="30" width="40" /></a>
 </p>
 
