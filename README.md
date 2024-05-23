@@ -1,7 +1,7 @@
 ![MasterHead](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
 
 <h1 align="center">Hi 👋, I'm Ayam</h1>
-<h3 align="center">Founder and CEO of Keys Innovations</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayam04&label=Profile%20views&color=0e75b6&style=flat" alt="ayam04" /> </p>
 
