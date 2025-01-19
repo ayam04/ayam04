@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ayam04/ayam04/master/profile-summary-card-output/blue_green/4-productive-time.svg)
-```
-
-    
