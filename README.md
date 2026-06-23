@@ -11,7 +11,7 @@
 
 - 🚀 Building **[LeetLingo](https://leetlingo.site)** — AI interview prep, used by **2,500+ people**
 
-- 🌐 Portfolio: **[ayamullah-khan.vercel.app](https://ayamullah-khan.vercel.app)**
+- 🌐 Portfolio: **[ayam.codes](https://ayam.codes)**
 
 - 💬 Ask me about **LLMs, fine-tuning (LoRA/QLoRA), RAG, AI agents & MLOps**
 
