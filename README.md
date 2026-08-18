@@ -9,9 +9,7 @@
 
 - 🔭 I'm currently an **AI SDE @ myAIcademy**, building production AI products
 
-- 🚀 Building **[LeetLingo](https://leetlingo.site)** — AI interview prep, used by **2,500+ people**
-
-- 🌐 Portfolio: **[ayam.codes](https://ayam.codes)**
+- 🌐 Portfolio: **[ayamk.in](https://ayamk.in)**
 
 - 💬 Ask me about **LLMs, fine-tuning (LoRA/QLoRA), RAG, AI agents & MLOps**
 
