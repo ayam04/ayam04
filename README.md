@@ -1,6 +1,6 @@
 ![MasterHead](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
 
-<h1 align="center">[ayamk.in](https://ayamk.in)</h1>
+<h2 align="center">https://ayamk.in</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayam04&show_icons=true&locale=en&layout=compact" alt="ayam04" /></p>
 
